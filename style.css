@@ -1,0 +1,34 @@
+
+/*section{
+	min-height: 420px;
+}*/
+.navbar{
+}
+
+.head
+{	background-image :url('gambar/hydro4.jpg');
+	background-position: -30px;
+   height: 630px;
+   padding-top: 200px;
+}
+
+
+#konten.konten{
+	background-image :url('gambar/456.jpg');
+	margin-top: -35px;
+	background-position: -50px -1020px;
+}
+#about.about{
+	background-image :url('gambar/456.jpg');
+	margin-top: -40px;
+	margin-bottom: : -35px ;
+	background-position: -300px -1500px;
+}
+
+#formulir.formulir{
+	background-image :url('gambar/456.jpg');
+	margin-top: -40px;
+	margin-bottom: : -35px ;
+	background-position: -300px -1500px;
+	height: 500px
+}
